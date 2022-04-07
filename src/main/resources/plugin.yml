@@ -1,0 +1,14 @@
+name: StupDust
+version: '${project.version}'
+main: stupdustpl.sd.pl.stupdust
+api-version: 1.18
+description: Nein
+commands:
+  tokens:
+    description: tokens and stuff
+  random:
+    description: Just test stuff
+  sdcreate:
+    description: Create a World
+  switchserver:
+    description: switch the server
